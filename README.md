@@ -12,6 +12,6 @@ Full-stack software engineer based in Scotland, UK. I design, build and run prod
 - [Cloak](https://github.com/Adam-Berger-Dev/cloak-linktree): a link-in-bio MVP that never leaks destination URLs. Ten layered protections including signed redirect tokens and bot decoys.
 - [Advanced Production Server](https://github.com/Adam-Berger-Dev/advanced-production-server): production-grade Express + PostgreSQL template with TOTP 2FA, Redis rate limiting, Prometheus metrics, migrations, tests and Docker.
 
-## Contact
+## Links
 
 [adam-berger.com](https://adam-berger.com) · [LinkedIn](https://www.linkedin.com/in/adam-berger-1b80a1266/) · adam@adam-berger.com
